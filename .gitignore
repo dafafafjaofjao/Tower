@@ -1,0 +1,7 @@
+Library/
+Logs/
+obj/
+.vs/Project/v16/.suo
+Project.sln
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
