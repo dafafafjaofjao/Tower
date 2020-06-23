@@ -5,3 +5,4 @@ obj/
 Project.sln
 Assembly-CSharp.csproj
 Assembly-CSharp-firstpass.csproj
+Temp/
