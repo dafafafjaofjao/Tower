@@ -19,15 +19,16 @@ public class MainScene : MonoBehaviour
 
     public void OnClick()
     {
-
         StateManager.Instance.SwitchState(StateManager.Instance.battleSceneState);
     }
 
     public void OnReturnButtonlik()
     {
         StateManager.Instance.SwitchState(StateManager.Instance.startSceneState);
-
-
+    }
+    public void CaoZuoShuoMing()
+    {
+        SceneManager.LoadScene(3);
     }
 
 }
